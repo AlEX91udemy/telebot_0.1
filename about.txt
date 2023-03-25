@@ -46,4 +46,9 @@ deactivate
 	а если "DISABLED" - нельзя, то есть при попытке добавить бота в группу вы получите такое сообщение:
 	/setprivacy - команда для настройки того, все ли сообщения будет бот видеть в группах. Если статус "ENABLED" - бот будет "видеть" только адресованные ему сообщения:
 	
-	/
+	first_var  : int        = 5
+	second_var : str        = 'second_var'
+	third_var  : list       = []
+	fourth_var : float
+	fifth_var  : dict
+	sixth_var  : tuple[int] = (1, 2)
